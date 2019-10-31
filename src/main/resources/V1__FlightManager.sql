@@ -1,0 +1,14 @@
+--create table IF NOT EXISTS flights (
+--    FlightID SERIAL PRIMARY KEY NOT NULL UNIQUE,
+--    Location VARCHAR(100) NOT NULL,
+--    Destination VARCHAR(100) NOT NULL,
+--    ArrivalTime TIMESTAMP NOT NULL,
+--    Fare int NOT NULL,
+--    Departure TIMESTAMP NOT NULL
+--);
+--create table IF NOT EXISTS Users (
+--    UserID SERIAL PRIMARY KEY NOT NULL UNIQUE,
+--    Uname VARCHAR(100) NOT NULL,
+--    Utype bool NOT NULL default '0'
+--);
+
